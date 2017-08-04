@@ -1,0 +1,1 @@
+docker run -d -p 5003:5003 cpr
